@@ -4,7 +4,7 @@ The lenses.txt file is a file which contains data with lense type on each row. T
 
 3 Classes
 
-1 : the patient should be fitted with hard contact lenses,
-2 : the patient should be fitted with soft contact lenses,
-3 : the patient should not be fitted with contact lenses.
+- 1 : the patient should be fitted with hard contact lenses,
+- 2 : the patient should be fitted with soft contact lenses,
+- 3 : the patient should not be fitted with contact lenses.
 
