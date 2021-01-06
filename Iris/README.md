@@ -2,8 +2,8 @@ This is a classifier for the iris dataset which can be found at https://archive.
 
 Attribute Information:
 
-sepal length in cm
-sepal width in cm
-petal length in cm
-petal width in cm
-class: Iris Setosa, Iris Versicolour, Iris Virginica
+- sepal length in cm
+- sepal width in cm
+- petal length in cm
+- petal width in cm
+- class: Iris Setosa, Iris Versicolour, Iris Virginica
