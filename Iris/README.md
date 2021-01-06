@@ -7,3 +7,4 @@ Attribute Information:
 - petal length in cm
 - petal width in cm
 - class: Iris Setosa, Iris Versicolour, Iris Virginica
+https://github.com/George-Leonard/Machine-Learning/issues/1
