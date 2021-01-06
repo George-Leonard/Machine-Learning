@@ -8,3 +8,6 @@ Attribute Information:
 - petal width in cm
 - class: Iris Setosa, Iris Versicolour, Iris Virginica
 
+![Iris3dPetalWL](https://user-images.githubusercontent.com/38766881/103807403-3c0ba780-504e-11eb-9cfb-bc15fa77af1a.png)
+![Iris3dSepalWL](https://user-images.githubusercontent.com/38766881/103807417-3f9f2e80-504e-11eb-9844-3aa77808aedf.png)
+![IrisUI](https://user-images.githubusercontent.com/38766881/103807423-4168f200-504e-11eb-9670-a5d294e459a0.png)
