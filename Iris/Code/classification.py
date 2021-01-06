@@ -11,7 +11,7 @@ iris = load_iris()
 #4.5,3,2,0.5
 
 
-clfKNN = KNeighborsClassifier(n_neighbors=1) # using the k nearest neightbours clf
+clfKNN = KNeighborsClassifier(n_neighbors=1) # using the k nearest neighbors clf
 clfSVC = svm.SVC()  # using svc clf
 clfETR = ensemble.ExtraTreesRegressor(n_estimators=3)  # using ensemble extra trees clf
 
