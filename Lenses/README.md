@@ -8,3 +8,4 @@ The lenses.txt file is a file which contains data with lense type on each row. T
 - 2 : the patient should be fitted with soft contact lenses,
 - 3 : the patient should not be fitted with contact lenses.
 
+![lensesUI](https://user-images.githubusercontent.com/38766881/103812578-9ad51f00-5056-11eb-9e69-b1532932ec89.png)
